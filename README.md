@@ -1,3 +1,5 @@
-# MLOPS TensorFlow Kubeflow VertexAI Pipeline
-This repo shows how to build the TF KUbeflow Vertex AI pipeline in GCP.
+## Continous Training Architecture
+![alt text](images/architecture.png)
 
+## Vertex AI Pipeline
+This repo shows how to create a Vertex AI pipeline using KubeFlow and TensorFlow
